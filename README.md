@@ -1,5 +1,4 @@
 # File_Encryption_Decryption_CLI
-# File Encryption and Decryption CLI
 
 This command-line application is designed for encrypting and decrypting files using symmetric cryptography algorithms like AES (Advanced Encryption Standard) or asymmetric cryptography algorithms like RSA (Rivest–Shamir–Adleman). It leverages the power of C++ and popular libraries like Crypto++ or OpenSSL to provide a secure and efficient solution for file encryption and decryption.
 
